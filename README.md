@@ -148,4 +148,28 @@ Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and Ar
 ## ⭐ Acknowledgements
 
 This project was created for learning, portfolio development, and practicing machine learning workflows using a synthetic dataset.
+## Visualizations
 
+### Country Sold Histogram
+![Country Sold Histogram](bmw-classification-images/country sold histogram.png)
+
+### Horsepower Histogram
+![Horsepower Histogram](bmw-classification-images/horsepower histogram.png)
+
+### Engine Size Histogram
+![Engine Size Histogram](bmw-classification-images/engine size histogram.png)
+
+### Year Histogram
+![Year Histogram](bmw-classification-images/year histogram.png)
+
+### Horsepower Box Plot
+![Horsepower Box Plot](bmw-classification-images/box plot of horsepower.png)
+
+### Engine Size Box Plot
+![Engine Size Box Plot](bmw-classification-images/box plot of engine size.png)
+
+### Correlation Matrix
+![Correlation Matrix](bmw-classification-images/Correlation Matrix.png)
+
+### Model Accuracy Comparison
+![Model Accuracy Comparison](bmw-classification-images/model accuracy comperison.png)
